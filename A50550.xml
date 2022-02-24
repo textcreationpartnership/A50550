@@ -1,0 +1,379 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the King &amp; Queen, at Windsor-Castle, Sept. 21, 1690 by R. Meggott ...</title>
+            <author>Meggott, Richard, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50550</idno>
+            <idno type="STC">Wing M1629</idno>
+            <idno type="STC">ESTC R795</idno>
+            <idno type="EEBO-CITATION">12770177</idno>
+            <idno type="OCLC">ocm 12770177</idno>
+            <idno type="VID">93640</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50550)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93640)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 698:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the King &amp; Queen, at Windsor-Castle, Sept. 21, 1690 by R. Meggott ...</title>
+                  <author>Meggott, Richard, d. 1692.</author>
+               </titleStmt>
+               <extent>[2], 29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Bennet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes bibliographical references.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  James II, 26 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93640:1"/>
+            <p>A SERMON Preached before the King &amp; Queen, AT WINDSOR-CASTLE, <hi>SEPT.</hi> 21. 1690.</p>
+            <p>By <hi>R. Meggott,</hi> D. D. Dean of <hi>Wincheſter,</hi> and Chaplain in Ordinary to Their Majeſties.</p>
+            <p>
+               <hi>Publiſhed by Their Majeſties Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Bennet,</hi> at the <hi>Half-Moon</hi> in St.
+<hi>Pauls</hi> Church-yard. MDCXC.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:93640:2"/>
+            <pb n="1" facs="tcp:93640:2"/>
+            <epigraph>
+               <bibl>
+                  <hi>James II. XXVI.</hi>
+               </bibl>
+               <q>
+                  <p>For as the body without the ſpirit is dead, ſo faith without works is dead alſo.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>MAthias a Michou,</hi>
+               <note place="margin">l. 1 c. 5. <hi>De<g ref="char:EOLhyphen"/>ſarmat. Aſi<g ref="char:EOLhyphen"/>anâ.</hi>
+               </note> telleth us the reaſon why the <hi>Tartars</hi> embraced
+<hi>Mahome<g ref="char:EOLhyphen"/>tiſm,</hi> was becauſe the <hi>Saracens</hi> perſwaded them, that, that Religion was more favou<g ref="char:EOLhyphen"/>rable and fit for their turn, than the ſtrict and rigid <hi>Chriſtian.</hi> But had they been ac<g ref="char:EOLhyphen"/>quainted with thoſe indulging comments which we our ſelves (as occaſion hath ſerved) have made on it; this need not have in the leaſt diſheartned them. There is no Text ſo ſevere, no ſaying ſo hard in it, that theſe, with one diſtinction and evaſion or
+<pb n="2" facs="tcp:93640:3"/>another, have not ſoftned and ſweetned ſo, that even the moſt delicate and wanton Pa<g ref="char:EOLhyphen"/>lates may away with them. Finding it irk<g ref="char:EOLhyphen"/>ſome to rectify their Manners by the Rule; to ſatisfy their grumbling Conſciences, Men have bowed the Rule to their Manners: And to avoid the Reproach of diſobeying the Oracle, found out Devices to Miſinter<g ref="char:EOLhyphen"/>pret it. So the
+<hi>Aethiopian,</hi> that he may ſeem Beautiful himſelf, Painteth his God black too.</p>
+            <p>Tho' 'tis but now and then, we meet with a boyſterous Athieſt ſo rude, as im<g ref="char:EOLhyphen"/>pudently to daſh the Looking-glaſs againſt the ground, becauſe it ſheweth him ſights ſo unwelcome and affrighting; yet nothing more common than to uſe ſuch Arts in or<g ref="char:EOLhyphen"/>dering and placing it, that it may be ſure to flatter, and reflect things pleaſingly.</p>
+            <p>Tho' the moſt <hi>Charitable</hi> Religion the World was ever bleſſed with, it hath been quoted in Juſtification of <hi>Cruelty and Perſecution:</hi> Tho' the moſt <hi>ſincere</hi> Religion, it hath been alledged as a Warrant for <hi>Per<g ref="char:EOLhyphen"/>fidiouſneſs</hi> and
+<hi>Aequivocation:</hi> Tho' the moſt <hi>Rational</hi> Religion, it hath been wreſted to
+<pb n="3" facs="tcp:93640:3"/>hallow <hi>Enthuſiaſm and Diſorder.</hi> Pure and ſpotleſs, holy and harmleſs as it is, yet as if <hi>Celſus</hi> and <hi>Zozimus</hi>'s Malicious Calumny had been true, that it was indeed an <hi>Aſylum</hi> where the moſt Lewd and Scandalous Of<g ref="char:EOLhyphen"/>fenders were promiſed <hi>Protection;</hi> ſcarce any thing ſo groſly Vile, that ſome or o<g ref="char:EOLhyphen"/>ther have not pleaded its <hi>Commiſſion</hi> for. And notwithſtanding the clear obligation which it layeth upon the Profeſſors of it to all good Works, ſome have taught as if it were a ſpecial Diſpenſation from the doing them. So inſtead of Conſcientiouſly paying theſe Debts, they deny them, Audaciouſly appealing to the Book, that they are alrea<g ref="char:EOLhyphen"/>dy diſcharged by another for them, and are not now owing.</p>
+            <p>Even while the Apoſtles were alive, there aroſe Men ſpeaking ſuch perverſe things; and againſt theſe St. <hi>James</hi> directeth a con<g ref="char:EOLhyphen"/>ſiderable part of this Epiſtle, irrefragably proving the neceſſity of Univerſal Obedi<g ref="char:EOLhyphen"/>ence, in order to our everlaſting Happi<g ref="char:EOLhyphen"/>neſs; that the belief of our Religion will never profit us without an anſwer<g ref="char:EOLhyphen"/>able Converſation: <hi>For as the body with<g ref="char:EOLhyphen"/>out
+<pb n="4" facs="tcp:93640:4"/>out the ſpirit is dead, ſo faith without works is dead alſo.</hi>
+            </p>
+            <p>In which words here are the <hi>Subject</hi> and its <hi>Praedicat</hi> to be conſidered of.</p>
+            <p>The <hi>Subject</hi> is <hi>Faith.</hi>
+            </p>
+            <p>What is here <hi>Praedicated</hi> of it, is, <hi>That without Works it is dead, as the body without the Spirit.</hi>
+            </p>
+            <p>The former of theſe the <hi>Subject</hi> here ſpo<g ref="char:EOLhyphen"/>ken of, is <hi>Faith.</hi>
+            </p>
+            <p>Very glorious things are ſpoken of this in the Book of God; but it is a word of ſuch various ſignifications, and there are ſo many things of the Name, that it ſeem<g ref="char:EOLhyphen"/>eth a little difficult to ſay, which of them they muſt be applied to. In the <hi>Latin Concordance</hi> of the Vulgar Bible, pub<g ref="char:EOLhyphen"/>liſhed by <hi>Stephanus,</hi> there are reckoned up no leſs than twenty two ſeveral accep<g ref="char:EOLhyphen"/>tations of it, with the divers places of Scripture ſet down, that have been ac<g ref="char:EOLhyphen"/>counted to refer to each of them. Not to take up your time about them, conſider it as that Theological <hi>Grace,</hi> diſtinguiſhed from <hi>Hope</hi> and <hi>Charity,</hi> and it is but another word for <hi>Believing,</hi> and
+<pb n="5" facs="tcp:93640:4"/>ſo is an aſſent of the mind to all the known Revelations of God, whether Do<g ref="char:EOLhyphen"/>ctrines, or Commands, Promiſes, or Threat<g ref="char:EOLhyphen"/>nings, as unqueſtionably true and cer<g ref="char:EOLhyphen"/>tain.</p>
+            <p>If this account ſeem not ſo <hi>accurate</hi> as ſome <hi>Scholaſtick,</hi> or ſo
+<hi>Spiritual</hi> as ſome <hi>Practical,</hi> Divines, have given of it, we need not be concerned, becauſe the Holy Ghoſt himſelf ſpeaketh of it on this wiſe, <hi>Heb.</hi>
+11.1. <hi>Faith is the ſubſtance of things hoped for, the evidence of things not ſeen.</hi> That is, it is ſuch a Conviction of the truth of thoſe things which God hath ſpoken, tho' we have no Ocular or Senſible demonſtration of them, as maketh us patiently and confi<g ref="char:EOLhyphen"/>dently expect the fulfilling them. This is the genuine, proper, and comprehenſive Notion of it.</p>
+            <p>If any ſhall ſay it is not ſuch a <hi>general</hi> Faith the Goſpel ſetteth ſo great a price up on, but a <hi>ſpecial</hi> one; if by <hi>ſpecial</hi> they mean an undoubting Perſwaſion, a certain and full aſſurance of our own Juſtification and Salvation, as<note n="(a)" place="margin">In Cap. <hi>48</hi> Geneſ.</note> 
+               <hi>Luther,</hi>
+               <note n="(b)" place="margin">
+                  <hi>Iuſt it.</hi> l. 3. c. 2. § 7.</note> 
+               <hi>Calvin,</hi>
+               <note n="(c)" place="margin">
+                  <hi>Confeſ.</hi> c. 4. <hi>Art.</hi> 5.</note> 
+               <hi>Beza,</hi>
+               <note n="(d)" place="margin">Tom. <hi>7. l. 1.</hi> de certa ſalute Eccle<g ref="char:EOLhyphen"/>ſiae.</note> 
+               <hi>Zanchy's;</hi> and ſeveral others,
+<pb n="6" facs="tcp:93640:5"/>about that time, ſpake of this Grace, in their Definitions of it; with due reverence to the Names of thoſe uſeful Men in their Generations; this is ſo far from being a more excellent <hi>kind of Faith,</hi> that, to ſpeak plainly, it is no <hi>Faith</hi> at all. The Object of <hi>faith</hi> is <hi>Divine Revelation,</hi> which is this caſe being but
+<hi>general</hi> and <hi>conditional,</hi> ſuch an <hi>Abſolute</hi> and <hi>Particular</hi> concluſion, if it be not a Deluſion, and over-weaning opinion of our own State (which it is to be feared too oft it is) yet however, if never ſo well grounded, it can be at moſt but a Rational Deduction ariſing from Self-examination.</p>
+            <p>By reaſon therefore of the Inconveniencies they perceived it clogged with, this ſince hath been generally quitted by the moſt<note n="*" place="margin">Vide Baro<g ref="char:EOLhyphen"/>nium Philoſ. Theol. Ancil. Exercit. <hi>3.</hi> Davenant Determ. Q. <hi>37.</hi>
+               </note> Judicious of them, who in all other things adhered to them who firſt broached it, they chooſing rather to excuſe thoſe Worthies in this, than defend them.</p>
+            <p>But notwithſtanding their warineſs in this, inſtead of contenting themſelves with that plain, ſimple, and ſubſtantial account, the Scriptures give of it, theſe alſo have nicely Coyned ſo many diſputable ſorts of it, as gave
+<pb n="7" facs="tcp:93640:5"/>but too much occaſion to <hi>Maldonat</hi>'s ſpite<g ref="char:EOLhyphen"/>ful Sarcaſm upon the Churches Reformed, that they had (alluding to the <hi>Aequivocal<g ref="char:EOLhyphen"/>neſs</hi> of the <hi>Latin</hi> Word) <hi>Tot fides quot in lyra.</hi>
+            </p>
+            <p>Beſides that of Miracles (which is now ceaſed) the moſt famous diſtribution of it, is into theſe three Kinds:
+<list>
+                  <item>
+                     <hi>Temporary,</hi>
+                  </item>
+                  <item>
+                     <hi>Hiſtorical,</hi> and</item>
+                  <item>
+                     <hi>Juſtifying.</hi>
+                  </item>
+               </list> And yet theſe Terms, currantly as they have paſſed, it may be upon conſiderati<g ref="char:EOLhyphen"/>on will appear not ſo much to have ex<g ref="char:EOLhyphen"/>plained as confounded the thing; and indeed, to have been but diſtinctions with<g ref="char:EOLhyphen"/>out a difference.</p>
+            <p>For that which they call <hi>Temporary Faith,</hi> the <hi>faith</hi> of them that believe but
+<hi>for a time,</hi> is of the ſame <hi>Species</hi> with that which they call
+<hi>juſtifying;</hi> the duration of a thing doth not at all belong to the Eſſence of it: He was as truly a Man that dyed at Thir<g ref="char:EOLhyphen"/>ty, as he that liveth while he is Four<g ref="char:EOLhyphen"/>ſcore.
+<pb n="8" facs="tcp:93640:6"/>And our Saviour ſpeaking of it, <hi>Luke</hi> 8.13. doth not make it to be ano<g ref="char:EOLhyphen"/>ther, but the ſame kind of <hi>Seed</hi> that <hi>fell upon the Rock,</hi> where it withered away after it ſprang up, becauſe <hi>it had no Root,</hi> with that which <hi>fell upon the good ground, and brought forth fruit with patience.</hi>
+            </p>
+            <p>And ſo that which is called <hi>Juſtifying Faith,</hi> conſidered in it ſelf, is nothing elſe but that which they call <hi>Hiſtorical,</hi> which without all doubt doth
+<hi>Juſtifie,</hi> if all thoſe other things which the new Covenant doth require to the juſtification of a Sinner doth accompany it. Every one will ſubſcribe to that of our Apoſtle, <hi>v.</hi> 14. of this Chap<g ref="char:EOLhyphen"/>ter, that <hi>if a man ſay he hath Faith and hath not Works, his Faith cannot ſave him.</hi> So that <hi>faith</hi> of no <hi>kind,</hi> when it is
+<hi>alone</hi> is <hi>juſti<g ref="char:EOLhyphen"/>fying;</hi> and <hi>faith</hi> of that kind they call
+<hi>Hiſto<g ref="char:EOLhyphen"/>rical</hi> made <hi>perfect by works,</hi> will be <hi>juſtifying.</hi> And thus upon the whole matter it is evi<g ref="char:EOLhyphen"/>dent, that he who doth really believe whatſoever is contained in Gods Word to be true, hath <hi>Faith,</hi> whatever other <hi>Grace</hi> he may be deficient in.</p>
+            <p>
+               <pb n="9" facs="tcp:93640:6"/>But leſt any Man ſhould, from ſome miſtaken places of Scripture, flatter himſelf that this is ſufficient to qualifie him for the favour of God, and admiſſion into Heaven: We are informed, that without a good life it will never profit.</p>
+            <p>This is that which is here <hi>Praedicated,</hi> and declared concerning <hi>faith.</hi> The other General of the Text, that without Works it is dead, as a Carcaſs when the Soul is departed:
+<hi>For as the body without the ſpirit is dead, ſo faith without works is dead alſo.</hi>
+            </p>
+            <p>And here again there is
+<list>
+                  <item>A Suppoſition, and an</item>
+                  <item>Aſſertion.</item>
+               </list>
+            </p>
+            <p>The <hi>Suppoſition</hi> is, that <hi>faith may be with<g ref="char:EOLhyphen"/>out works.</hi>
+            </p>
+            <p>The <hi>Aſſertion,</hi> that whereſoever it is ſo, it is unacceptable to God, and unprofitable unto Men <hi>it is dead.</hi>
+            </p>
+            <p>The <hi>Suppoſition</hi> here is, that <hi>faith may be without works.</hi>
+            </p>
+            <p>If it did neceſſarily draw Obedience after it (as ſome with plauſible ſhows of reaſon<note place="margin">Camero prae<g ref="char:EOLhyphen"/>lect. ad Met. <hi>18.</hi>
+               </note>
+               <pb n="10" facs="tcp:93640:7"/>have attempted to maintain) this whole diſ<g ref="char:EOLhyphen"/>courſe about it, would have been omitted as impertinent. Why ſhould our Apoſtle have argued ſo earneſtly and cloſely about an utter impoſſibility.</p>
+            <p>It is true, there can be no <hi>good works with<g ref="char:EOLhyphen"/>out Faith,</hi> Hebr. 11.6. <hi>Without faith it is impoſſible to pleaſe God, for he that cometh to God, muſt believe that he is, and that he is a rewarder of them that diligently ſeek him.</hi> He that doth not believe this, that God will reward him for it in another World, will never Mortify his corrupt inclinations in this.</p>
+            <p>But true as it is, that there can be no good works without Faith, it is as true, that there may be <hi>faith</hi> without <hi>good works;</hi> elſe why are we exhorted, 2 <hi>Pet.</hi> 1.5. To
+<hi>add to our Faith Vertue.</hi> If this habit could not be in us idle and un-active, there would have been no more need of it, than to admoniſh the fire that it would warm, or make orations to the water, that it would cleanſe, or moiſten. It is a Moral motive to good Works, but it is no irreſiſtible Cauſe; no, it may be barren and unfruitful. It is ſo in two very common Caſes:</p>
+            <pb n="11" facs="tcp:93640:7"/>
+            <list>
+               <item>In caſe of <hi>Inconſideration.</hi>
+               </item>
+               <item>In caſe of <hi>Preſumption.</hi>
+               </item>
+            </list>
+            <p n="1">I. Firſt, in caſe of Inconſideration, There is no queſtion but that it is ſufficient to pro<g ref="char:EOLhyphen"/>duce <hi>good works.</hi> St. <hi>Gregory</hi> Expounding that paſſage of our Saviour,<note place="margin">B. Greg. in Ebany. hom. <hi>29.</hi>
+               </note> 
+               <hi>Mark</hi> 16.17, 18.
+<hi>Theſe ſigns ſhall follow them that believe, in my name they ſhall caſt out Devils, they ſhall ſpeak with new tongues, they ſhall take up ſer<g ref="char:EOLhyphen"/>pents, if they drink any deadly thing it ſhall not hurt them, they ſhall lay hands on the ſick and they ſhall recover:</hi> Becauſe (ſaith he) <hi>faith</hi> doth not work theſe Wonders now, ſhall we ſay it is not Faith? No, it doth now as mighty things upon the ſpirits of Men, as then it did upon their Bodies. Where it really is, it <hi>caſteth out Devils</hi> ſtill, the Envi<g ref="char:EOLhyphen"/>ous, the Proud, the Unclean, the Revenge<g ref="char:EOLhyphen"/>ful, every Evil Spirit that poſſeſſeth Men. It maketh Men <hi>ſpeak with new tongues</hi> ſtill, that which is good to the uſe of Edifying inſtead of Blaſphemies, Slanders, Lyes, Oaths, Cor<g ref="char:EOLhyphen"/>rupt and Filthy Communication. <hi>It taketh up Serpents</hi> ſtill, ſtinging Scoffs and Cenſures,
+<pb n="12" facs="tcp:93640:8"/>when called to it, the greateſt dangers and loſſes, for the keeping of a good Conſcience. <hi>If they drink any deadly thing it ſhall not hurt ſuch</hi> ſtill, the ſollicitings and temptations of bad Company, which is ſo deadly unto thou<g ref="char:EOLhyphen"/>ſands, they ſhall not be Poyſoned with: <hi>They ſhall lay their hands on the ſick, and they ſhall recover</hi> ſtill, their many Infirmities and Frailties they labour under, by degrees they ſhall overcome and conquer, waxing ſtronger in the Lord: Theſe (ſaith he) are the wonderful effects of <hi>faith</hi> ſtill.</p>
+            <p>But then it muſt be remembred, it pro<g ref="char:EOLhyphen"/>duceth them, not as a Charm, but as a Medicine; not in a Magical way, but in a Moral. It repreſenteth Arguments to our hopes, and Fears of ſuch amazing moment, as are proper and apt enough to influence the ſtupideſt, or wildeſt Perſons, that will but weigh them; but yet no Vertue will come out of them except our Minds touch them.</p>
+            <p>And are there not ſome, who ſeldom or never ſeriouſly, and in earneſt, think of theſe things, tho' they know them? And then what can be expected? The ſharpeſt Sword
+<pb n="13" facs="tcp:93640:8"/>will not cut, as long as it is in the Scabard. In this caſe, tho' there be Faith, woful ex<g ref="char:EOLhyphen"/>perience ſhoweth, it worketh no more than the Potion in a Glaſs, which the Patient doth not take, in the caſe of <hi>Inconſideration.</hi> The other is like unto it, and that is,</p>
+            <p n="2">II. The caſe of <hi>Preſumption.</hi> Altho' <hi>Incon<g ref="char:EOLhyphen"/>ſideration</hi> with the
+<hi>Philiſtines,</hi> cutteth the Hair wherein the ſtrength of <hi>Faith</hi> lyeth; this will not ſerve always; in time it will grow again, and make its freſh aſſaults on us. Tho' Men may for a while, by caſual or contrived diverſions, have theſe things out of their thoughts, they cannot ſo utter<g ref="char:EOLhyphen"/>ly rid their Conſciences of its company, but that ſometime or other it meeteth them, as the Angel did <hi>Balaam,</hi> with a naked Sword in its Hand, ſo dreadful, that it maketh the the moſt Brutiſh ſort of Sinners, for the preſent, to ſtart and boggle in their ways; and yet, for all this, oft-times they will not go back again.</p>
+            <p>No, when they dare not run full-butt againſt it, then they find out a trick cunning<g ref="char:EOLhyphen"/>ly to ſlip by it. They ſuppoſe the things to be true, but then they promiſe them<g ref="char:EOLhyphen"/>ſelves
+<pb n="14" facs="tcp:93640:9"/>ſelves that they will be wiſe. They reſolve they will repent before they dye, and then they aſſure themſelves the threatning will not take place.</p>
+            <p>Behind this Sconce they ſtand ſecure, againſt the moſt dreadful Artillery of Hea<g ref="char:EOLhyphen"/>ven that is diſcharged at them; having once imbibed this Opiat Principle, like thoſe
+<hi>Indian</hi> Kings, mentioned by<note n="*" place="margin">
+                  <hi>Vita Apol<g ref="char:EOLhyphen"/>lorii,</hi> l. 3. c.
+1.</note> 
+               <hi>Philoſtratus,</hi> when they had drunk out of their Enchant<g ref="char:EOLhyphen"/>ed Cup, they conceive themſelves Invulne<g ref="char:EOLhyphen"/>rable.</p>
+            <p>That Servant who had not quite loſt all fear of his Lord, but believed he would call him to a reckoning; when once he ſaid in his Heart, that <hi>he</hi>
+               <note n="(a)" place="margin">
+                  <hi>Mat.</hi> 24.48.</note> 
+               <hi>delayed his coming,</hi> it would be a great while firſt: At the pre<g ref="char:EOLhyphen"/>ſent maketh bold to do any thing, <hi>Smiteth his fellow Servants, and eateth and drinketh with the drunken.</hi>
+            </p>
+            <p>It is a very <hi>Atheiſtical</hi> Age we live in, but yet I am very far from thinking all the looſe ones in it to be <hi>Atheiſts;</hi> moſt of them, I perſwade my ſelf, believe there is a God, and that he will by no means acquit the guilty, but with them in the Prophet, who
+<pb n="15" facs="tcp:93640:9"/>ſaid, <hi>The Viſion is for many days to come;</hi>
+               <note place="margin">Ezek.
+12.27.</note> they hope hereafter will be time enough to be reconciled to him; and with this
+<hi>Salvo</hi> it is they ſin ſo unconcernedly, and their <hi>faith</hi> ſitteth idle all the day long without works.</p>
+            <p>God grant it do not ſo with any of us, while the Night cometh, that long and diſ<g ref="char:EOLhyphen"/>mal Night when no Man can Work!</p>
+            <p>To prevent this mighty Evil, know aſſu<g ref="char:EOLhyphen"/>redly, that as long as it is ſo with any of us, our ſtate is as dangerous: I might add, more, than if we had no faith at all.</p>
+            <p>This is the thing here aſſerted, the great Truth in the Text now to be diſcourſed of concerning <hi>faith,</hi> that as long as it is <hi>without works,</hi> it is unacceptable to God, it is unprofi<g ref="char:EOLhyphen"/>table unto Men; <hi>it is dead. For as the body without the ſpirit is dead, ſo faith without works is dead alſo.</hi>
+            </p>
+            <p>There is no ſuch plenty of Faith on the Earth now, as to bring down the price of it; but rare as it is, 'tis poſſible to over-rate it. And ſo we ſhould moſt unreaſonably to think it is all that God requireth of us under the Goſpel. This is to repreſent the Chriſti<g ref="char:EOLhyphen"/>an Religion more abſurd than any. None
+<pb n="16" facs="tcp:93640:10"/>ſo Prodigal, as to engage its rewards to as many as are of it, meerly for believing ſome of its Articles, except they are like<g ref="char:EOLhyphen"/>wiſe obſervant of its Precepts; but this were to make the Commandments of God of no Obligation, to as many as ſhall but confi<g ref="char:EOLhyphen"/>dently rely upon his Promiſes.</p>
+            <p>If it be ſo diſingenuous an abuſe of the kindneſs of Men, to miſconſtrue their words ſpoke in our favour, and put ſuch an extra<g ref="char:EOLhyphen"/>vagant ſenſe on them, as they never intend<g ref="char:EOLhyphen"/>ed, what would it be to deal ſo with the words of God? Inſtead of bleſſing his Name for ſo gracious a Promiſe, that for the Merits of his Son he will accept of the ſincere (tho' imperfect) Repentance and Obedience of every one who by Faith layeth hold on him; to pretend, that laying hold of Chriſt by Faith is all that he requireth to the Juſtification of a Sinner.</p>
+            <p>God forbid, but that we ſhould give unto Faith the things that are Faith's, that we may, and yet not own all thoſe indiſcreet and dangerous Hyperboles, that ſome in their heats have magnifyed it with; this were to take away from Works, the things
+<pb n="17" facs="tcp:93640:10"/>that are works. Now look upon <hi>faith</hi> as ſeparate from theſe, and as great and ne<g ref="char:EOLhyphen"/>ceſſary a grace as it is, there is nothing in it which may not be found in a reprobate and caſt-away.</p>
+            <p>There are but three things that can pro<g ref="char:EOLhyphen"/>perly be reckoned up belonging to it. <hi>Know<g ref="char:EOLhyphen"/>ledge, Aſſent</hi> and <hi>Affiance.</hi>
+            </p>
+            <p>As to <hi>Knowledge</hi> there is none can make any doubt of that, have all the works of iniquity no Knowledge? have they not known? have they not heard? yea verily, that Servant who did it not, yet knew his Maſters Will as well as any of them.</p>
+            <p>As for <hi>Aſſent,</hi> the Devils go beyond us all in it, they give it without any mixture of doubting. It filleth them conſtantly with tormenting fears, they <hi>believe and tremble.</hi>
+            </p>
+            <p>And for <hi>Affiance,</hi> except there were more ground for it, alas! there is but too much of it among the moſt ſottiſh of the people. The <hi>fooliſh Virgins,</hi> tho' they had <hi>no oyl in their Lamps,</hi> were as confident, ſlept as ſoundly as the <hi>wiſe.</hi>
+            </p>
+            <p>Theſe things with their due concomitants are glorifications of God, and their praiſe is
+<pb n="18" facs="tcp:93640:11"/>in the Goſpel: But alone by themſelves, like the unfruitful light of the Sun in Win<g ref="char:EOLhyphen"/>ter, or the deceptions of a flattering dream; they are meer entertainment for imaginati<g ref="char:EOLhyphen"/>on, they being nothing to perfection. That faith which is compounded of all theſe in<g ref="char:EOLhyphen"/>gredients, if it be not accompanied with a holy life<g ref="char:punc">▪</g> the Apoſtle here compareth to a dead body whoſe ſpirit is departed from it.</p>
+            <p>And there are two things wherein it much reſembleth it.</p>
+            <p n="1">1. Firſt as the dead <hi>body without the Spi<g ref="char:EOLhyphen"/>rit</hi> is <hi>imperfect,</hi> wanting its beſt and nobleſt part, ſo is <hi>faith without works</hi> wanting that which dignifyeth and compleateth it: without theſe, it appeareth by the view we juſt now have taken of the parts of it, it is in the ſight of God of no price.</p>
+            <p>This ſome have not without probability conceived to be one of the chief of thoſe things, which St. <hi>Peter</hi> pointeth at in his brother <hi>Paul</hi>'s Epiſtles,<note place="margin">Pet. 23.16.</note> ſo <hi>hard to be under<g ref="char:EOLhyphen"/>ſtood, which they that were unlearned and un<g ref="char:EOLhyphen"/>ſtable, wreſted to their own deſtruction,</hi> his doctrine concerning <hi>faith,</hi> becauſe of his at<g ref="char:EOLhyphen"/>tributing ſuch bleſſed effects to it (tho he
+<pb n="19" facs="tcp:93640:11"/>meant it only of ſuch a <hi>faith as worketh by love,</hi> as he expreſſeth himſelf to the <hi>Galati<g ref="char:EOLhyphen"/>ans,</hi> Chap. 5.6. telling the <hi>Corinthians,</hi> 1 Epiſt 13.2. that he that hath <hi>all faith,</hi> faith of any denomination, <hi>and hath not cha<g ref="char:EOLhyphen"/>rity is nothing</hi>) yet there were a ſort of men who took occaſion from thence to teach, that all he intended was only an inward and ſtrong perſwaſion, of the vertue and effica<g ref="char:EOLhyphen"/>cy of Chriſt's merits and ſatisfaction; and if people but ſo believed, it was enough; not much matter how they lived.</p>
+            <p>Several of the Ancients, and among them St. <hi>Auguſtine,</hi> hath affirmed, that the firſt Epiſtle of St. <hi>John,</hi> the ſecond of St. <hi>Peter,</hi> the Epiſtle of St.
+<hi>Jude,</hi> and this of St. <hi>James,</hi> all inſiſting ſo peculiarly upon the neceſſity of obedience, and keeping the Command<g ref="char:EOLhyphen"/>ments of God, were written chiefly for the confutation of that pernicious tenent.</p>
+            <p>All who carefully, and without prejudice read the <hi>Scriptures,</hi> will eaſily ſee, that theſe make <hi>repentance</hi> and <hi>newneſs of life,</hi> as much a condition of our pardon and ſalvation, as <hi>faith</hi> it ſelf. So that when theſe are attri<g ref="char:EOLhyphen"/>buted ſo eminently and peculiarly unto
+<pb n="20" facs="tcp:93640:12"/>
+               <hi>faith,</hi> we are not to underſtand it of this <hi>Grace</hi> ſingly: but of the mother with her daughters, <hi>her,</hi> with her whole <hi>family</hi> of evangelical duties. Thus St. <hi>Paul</hi> (who is moſt appealed to in this caſe) expoundeth himſelf,
+<hi>Rom.</hi> 10.16. <hi>they have not all obey<g ref="char:EOLhyphen"/>ed the Goſpel, for Eſaias ſaith who hath belie<g ref="char:EOLhyphen"/>ved our report.</hi> Where <hi>obeying the Goſpel</hi> in the former part of the Verſe, he calleth <hi>be<g ref="char:EOLhyphen"/>lieving</hi> in the latter: accordingly he chargeth all that ſhould
+<hi>preach</hi> it to the end of the World, <hi>Titus</hi> 3.8. <hi>to teach and affirm con<g ref="char:EOLhyphen"/>ſtantly that they that believe in God, ſhould be careful to maintain good works.</hi> Shewing that our <hi>believing</hi> is ſo far from exempting us from them, that 'tis a peculiar obligation to abound in them.</p>
+            <p>As when <hi>Abraham</hi> telleth <hi>Sarah</hi> that ſhe was <hi>a fair woman to look upon,</hi>
+               <note place="margin">Gen. 12.11.</note> he meaneth as ſhe then was, with her ſoul remaining in her: when that was departed, ſhe was ſo ghaſtly a ſpectacle, he ordered her to be <hi>buried out of his ſight:</hi> So doth the Apoſtle, when he ſpeaketh of this Grace ſo highly, he meaneth it as <hi>enlivened</hi> by <hi>inherent holi<g ref="char:EOLhyphen"/>neſs,</hi> otherwiſe, when it is without that, it
+<pb n="21" facs="tcp:93640:12"/>is a <hi>dead body without its ſpirit,</hi> aptly here compared to it, becauſe of its <hi>imperfection.</hi>
+            </p>
+            <p n="2">2. There is another account may be ren<g ref="char:EOLhyphen"/>dered of it too, why it is reſembled to a
+<hi>dead body without its ſpirit,</hi> and that is becauſe of its
+<hi>uſeleſneſs.</hi>
+            </p>
+            <p>Theſe <hi>bodies</hi> of <hi>ours</hi> ſo <hi>wonderfully made,</hi> whenonce they ceaſe to be animated, what are they good for? They have mouths, but they ſpeak not; eyes have they, but they ſee not; they have ears but they hear not; noſes have they, but they ſmell not; they have hands but they handle not, feet have they, but walk not; neither ſpeak they through their throats. And it is no better with <hi>faith</hi> it ſelf, when unaccompanied with a religi<g ref="char:EOLhyphen"/>ous life. It is altogether as inſignificant to any ſaving purpoſes.</p>
+            <p>We find God in mercy making abate<g ref="char:EOLhyphen"/>ments for matters of <hi>faith,</hi> where the per<g ref="char:EOLhyphen"/>ſon leadeth a pious and good <hi>life. Corne<g ref="char:EOLhyphen"/>lius</hi> had not any explicit knowledge of Chriſt at all, yet being <hi>a devout man and one that feared God,</hi> he is aſſured by an An<g ref="char:EOLhyphen"/>gel that his <hi>prayers and his alms were come up for a memorial before him.</hi>
+               <note place="margin">Acts
+10.4.</note> But where
+<pb n="22" facs="tcp:93640:13"/>there is not a pious and <hi>good life,</hi> God hath no regard to the moſt orthodox and relying <hi>faith.</hi> Our Saviour telleth us plainly, that it is not the calling him, <hi>Lord, Lord,</hi> ſhall give us entrance into Heaven,<note place="margin">Mat. 7.21.</note> but <hi>the doing the will of our Father which is in heaven.</hi>
+            </p>
+            <p>They who run down this as <hi>legal</hi> preach<g ref="char:EOLhyphen"/>ing, and as the more <hi>evangelical</hi> way, ſpend themſelves in exhorting their hearers to <hi>get Chriſt, to lean on Chriſt, to caſt themſelves on Chriſt,</hi> one would almoſt think had diſcovered ſome <hi>other Chriſt,</hi> then him the Goſpel ſpeaketh of. His doctrine was of a different form and tendency: In the firſt Sermon that he preached, he cautiouſly informeth the people of this, that <hi>he came not to deſtroy the law but to fulfill it.</hi>
+               <note place="margin">Mat.
+5.17.</note> To can<g ref="char:EOLhyphen"/>cel any part of our duty toward God or man, but to advance it to a higher degree of perfection. It were to be wiſhed there<g ref="char:EOLhyphen"/>fore, that they who ſo much affect, would take care to explain, expreſſions of ſuch indefi<g ref="char:EOLhyphen"/>nite and ambiguous ſignification, leſt their followers ſhould miſtake their better mean<g ref="char:EOLhyphen"/>ing, and inſtead of being built up in their
+<hi>moſt holy faith,</hi> receive the <hi>Grace of God in
+<pb n="23" facs="tcp:93640:13"/>vain,</hi> and cauſe <hi>the way of truth to be evil ſpoken of.</hi>
+            </p>
+            <p>Let not any think to ſhelter looſe and dangerous notions in this kind, under the authority of the <hi>reformed Churches.</hi> Tho' theſe have been much ſcandalized by the
+<hi>Romaniſts</hi> upon this account; as licentious in their tenents, and deſpiſers of
+<hi>good works</hi> (becauſe they exclude them from <hi>juſtifica<g ref="char:EOLhyphen"/>tion,</hi> attributing that to faith only) it is very cauſeleſly; for when they ſpeak of <hi>juſtifying faith,</hi> they do it in ſuch a way, as ſhoweth them very innocent and free from the charge: and that in truth it is the manner of their ſpeaking, rather than the thing they ſpeak, that giveth offence to them. For when they Reſcribe this ſort of faith, they put in more
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>han is properly <hi>faith</hi> to appretiate it. For then they ſay <hi>we are juſtified by faith only,</hi> obſerve what they will have this
+<hi>juſtifying <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith</hi> to be. Becauſe it is beſt known to, and may have the greateſt ſway with, thoſe a<g ref="char:EOLhyphen"/>mong us, who have moſt need to be diſa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſed in this matter, I ſhall only mention <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Aſſembly of Divines,</hi> whoſe words in our <hi>confeſſion of faith,</hi> are theſe.<note place="margin">Cap. 14.</note> 
+               <hi>By this
+<pb n="24" facs="tcp:93640:14"/>faith, a Chriſtian believeth to be true, what<g ref="char:EOLhyphen"/>ſoever is revealed in the word, for the authori<g ref="char:EOLhyphen"/>ty of God himſelf ſpeaking therein, and acteth differently upon that which each particular paſ<g ref="char:EOLhyphen"/>ſage thereof containeth; yielding obedience to the commands, trembling at the threatnings and embracing the promiſes of God, for this life and that which is to come.</hi> They ſuppoſe theſe effects ſo inſeparable from <hi>true faith</hi> that when it is proved, not only that con<g ref="char:EOLhyphen"/>ſidered in its own nature, it may be; bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that often it hath been without them: it is ſtill replied, it is not ſuch a faith which they mean, and call <hi>juſtifying.</hi>
+            </p>
+            <p>The foreign Divines, whom theſe follow<g ref="char:EOLhyphen"/>ed have ſpoken ſo much to this purpoſe, ſom<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> making this habitto be in the <hi>will,</hi>
+               <note n="(a)" place="margin">Chamier Panſtratiae tom. <hi>3.</hi> l. <hi>12.</hi> c. <hi>4.</hi>
+               </note> other to contain in it <hi>hope and charity;</hi>
+               <note n="(b)" place="margin">Zegerus in praefat. ad annotat. ad epist. Pauli.</note> th<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that moderate and very judicious writer <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> le Blanc</hi> after an exact and impartial ſtat<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Queſtion about our <hi>juſtification by fai<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and ſummoning up what the moſt conſider<g ref="char:EOLhyphen"/>able on both ſides grant and deny, conclu<g ref="char:EOLhyphen"/>eth, that, tho the doctrine of the Rom<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Church in ſome other points is ſuch, as not ſo conſiſtent with the truth which h<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="25" facs="tcp:93640:14"/>they have been by their adverſaries com<g ref="char:EOLhyphen"/>pelled to own: Tho' ſome writers of the re<g ref="char:EOLhyphen"/>formation have let fall many things which ſeem contradictory, and have need of a ve<g ref="char:EOLhyphen"/>ry kind interpretation to reconcile them; tho' on both ſides they charge one another ſo highly, as if they ſtruck at the very founda<g ref="char:EOLhyphen"/>tion of Chriſtanity; yet would they have but the patience to conſider what one ano<g ref="char:EOLhyphen"/>ther ſay,<note place="margin">Vide Le Blanc The<g ref="char:EOLhyphen"/>ſes Theol. Quomodo fi<g ref="char:EOLhyphen"/>des juſtificet Sect. <hi>59.</hi>
+               </note> this controverſie between us and the Papiſts would appear not much more, after all, than a ſtrife of words.</p>
+            <p>Upon this account ſuch as have ſpoken moſt favourably of a death-bed repentance have juſtly affirmed it ſo extreamly dange<g ref="char:EOLhyphen"/>rous to rely on, not only becauſe there are ſo many ſeveral ways of mens going out of the world, ſome of which deprive, of time, o<g ref="char:EOLhyphen"/>thers of faculties: but becauſe it beareth ſo little and ſo ſuſpicious fruit.</p>
+            <p>Not but that where ſuch repentance is ſincere and cordial, he who foreſeeth all fu<g ref="char:EOLhyphen"/>ture contingencies, and the effects of things in their cauſes, may, in this ſenſe, call the things that are not as if they were, and gra<g ref="char:EOLhyphen"/>ciouſly accept according to that which a
+<pb n="26" facs="tcp:93640:15"/>man hath, and not according to that which he hath not: But yet it muſt be ſaid, that throughout all the Bible we have not a pro<g ref="char:EOLhyphen"/>miſe, that God will accept the moſt godly death for a wicked life; good wiſhes for good works.</p>
+            <p>No body therefore need have been ſo angry with St. <hi>James,</hi> as to deny the truth and authority of his Epiſtle upon this ſcore, as if the contents of it were contradictory to the tenour of other Scriptures, thoſe paſſages which have made any think ſo, as <hi>to him that worketh not,</hi>
+               <note place="margin">Rom. 4.5.</note> 
+               <hi>but believeth in him that juſtifieth the ungodly.</hi> I deſire to <hi>be found in him not having mine own righteouſ<g ref="char:EOLhyphen"/>neſs which is after the law,</hi>
+               <note place="margin">Phil. 3.9.</note> 
+               <hi>but that which is through the Faith of God,</hi> and the like; are to be underſtood, <hi>chiefly</hi> of the <hi>works of the ceremonial law,</hi> which the <hi>Jews</hi> ſo tena<g ref="char:EOLhyphen"/>ciouſly adhered to; as is evident by the whole Epiſtle to the <hi>Galatians: partly</hi> of the <hi>works of the moral law,</hi> which the
+<hi>Gentiles</hi> performed by the <hi>power of Nature,</hi> as ap<g ref="char:EOLhyphen"/>peareth by the two firſt chapters to the <hi>Ro<g ref="char:EOLhyphen"/>mans;</hi> but if we ſpeak of the works of the <hi>evangelical law which proceed from faith,</hi> and
+<pb n="27" facs="tcp:93640:15"/>aſſiſtance of the ſpirit: If we turn over the whole new Teſtament we ſhall be ſo far from finding any thing in derogation or diminu<g ref="char:EOLhyphen"/>tion of them, that it will appear they are the great deſign of our religion, ſo the Apoſtle telleth the <hi>Ephſians, we are his workmanſhip,</hi>
+               <note place="margin">Epheſ. 2.10.</note> 
+               <hi>created in Chriſt Jeſus unto good works, which God hath before ordained that we ſhould walk in them.</hi> Tho' there is not ſuch merit in them, that we ſhall be ſaved for them, yet there is ſuch neceſſity of them, that we ſhall not be ſaved without them. <hi>No be<g ref="char:EOLhyphen"/>lieving</hi> without
+<hi>obedience</hi> will avail us; <hi>for as the body without the ſpirit is dead, ſo faith without works is dead alſo.</hi>
+            </p>
+            <p>This being ſo very clear, giveth cauſe e<g ref="char:EOLhyphen"/>nough to ſpend more than the remainder of the time in lamentation, in ſad lamentation for the <hi>dead,</hi> I mean for the <hi>faith of Chri<g ref="char:EOLhyphen"/>ſtians,</hi> whoſe want of <hi>works</hi> doth ſo plainly manifeſt it hath too generally given up the ghoſt. Inſtead of making it the guide and rule of our lives,<note place="margin">1 Kings 9.</note> we uſe it as a name of fa<g ref="char:EOLhyphen"/>ction and diſtinction; wrangling and cla<g ref="char:EOLhyphen"/>mouring, as the Harlots did before <hi>Solomon</hi> about the child; one ſaying the
+<hi>faith</hi> is <hi>mine,</hi>
+               <pb n="28" facs="tcp:93640:16"/>the other, nay, but it is <hi>mine;</hi> only with this woful difference; theirs was about a <hi>living child,</hi> ours (God knoweth!) about a <hi>dead</hi> one. What can we think elſe, when we ſee it on all hands to be ſo very void works?</p>
+            <p>This is ſad in any that call themſelves <hi>Chriſtians,</hi> but we have the leaſt to excuſe our ſelves, of any, By how much our <hi>faith</hi> is the ſounder, by ſo much is our ſin the great<g ref="char:EOLhyphen"/>er. For, however we may flatter our ſelves, it will be more tolerable in the day of ac<g ref="char:EOLhyphen"/>count for ſuch as have been ſerious even in a trifling religion, than for ſuch as have been trifling in ſuch a ſerious one. The <hi>Kingdom of God is not meat and drink,<note place="margin">Rom. 13.17.</note> but righteouſneſs and peace and joy in the Holy Ghoſt.</hi>
+            </p>
+            <p>It is a duty indeed, and a commendable one <hi>to contend earneſtly for the faith once de<g ref="char:EOLhyphen"/>livered to the Saints,</hi>
+               <note place="margin">Jude 3.</note> but what will it be but a reproach to us, if all our zeal be only for the profeſſion of it, and we have none, for thoſe fruits of it, as are moſt <hi>becoming Saints. Be not deceived, God is not mocked,</hi> for
+<hi>what<g ref="char:EOLhyphen"/>ſoever a man ſoweth, that ſhall he alſo reap.</hi>
+            </p>
+            <p>Truſt ye not then in lying words, ſaying the <hi>Temple of the Lord,</hi> the <hi>Temple of the
+<pb n="29" facs="tcp:93640:16"/>Lord.</hi> The <hi>Proteſtant Religion,</hi> the <hi>Prote<g ref="char:EOLhyphen"/>ſtant Religion.</hi> It will be but odious to God, and fulſom to men, if it be not adorn<g ref="char:EOLhyphen"/>ed with an unanſwerable converſation.</p>
+            <p>
+               <hi>Who then is a wiſe man among you,</hi>
+               <note place="margin">James 3.13.</note> 
+               <hi>and en<g ref="char:EOLhyphen"/>dued with knowledge, let him ſhow out of a good converſation his works with meetneſs of wiſdom:</hi> that ſo our profeſſion and our practices may meet together, our faith and our works kiſs each other, and glory may dwell in our land.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
